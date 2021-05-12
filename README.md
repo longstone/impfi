@@ -5,3 +5,9 @@
 -> centers.json
 ### special
 only_lodash_centers.json contains only "Impfzentren".
+
+## build & run
+```
+npm ci
+node index.js
+```
